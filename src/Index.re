@@ -1,3 +1,2 @@
-ReactDOMRe.renderToElementWithId(<Component1 message="Hello! Click this text." />, "index1");
-
-ReactDOMRe.renderToElementWithId(<Component2 greeting="Hello!" />, "index2");
+// from https://jsobject.info/2019/04/15/reasonml-with-react-hooks-tutorial-building-a-pomodoro-timer/
+ReactDOMRe.renderToElementWithId(<Timer />, "root");
